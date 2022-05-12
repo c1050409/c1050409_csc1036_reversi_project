@@ -28,7 +28,7 @@ public class Move {
     }
 
     public int getScore() {
-        return this.score;
+        return score;
     }
 
     public ArrayList<DirectedMove> getMoves() {
